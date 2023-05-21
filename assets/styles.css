@@ -1,0 +1,14 @@
+button {
+    transition-duration: 0.4s;
+    border-radius: 8px; 
+}
+
+button:hover {
+    background-color: #4CAF50;
+    color: white; 
+}
+
+button:focus {
+    background-color: #4CAF50;
+    color: white; 
+}
