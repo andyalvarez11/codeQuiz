@@ -26,9 +26,7 @@ To do:
 <!-- 3 - when timer starts I am presented with question -->
 3.1 - capture selected answer
 <!-- next button may have to be input type or form -->
-3.2 - create next question button
-<!-- done -->
-3.3 - add event listener for when next question is clicked
+3.3 - add event listener for when option is clicked
 3.4 - if answer is incorecct deduct 5 seconds from timer & provide new question, else provide new question
 3.5 - store answers
 
